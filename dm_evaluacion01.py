@@ -1,7 +1,7 @@
 #*********************************************************************
 #  CURSO DE CIENCIAS DE DATOS - SECRETARIA DE INNOVACION EL SALVADOR
 #  Año: 2021
-#  Alumno: Donald Remberto Miranda Hernandez
+#  Alumno: Donald Miranda
 #  Docente: Ing. Manuel Calderón
 #  Fecha: 14-08-2021
 #*********************************************************************
